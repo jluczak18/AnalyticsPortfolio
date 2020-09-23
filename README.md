@@ -1,5 +1,8 @@
 # AnalyticsPortfolio
-This is a portfolio to showcase my analytics work using Python to preprocess and building machine learning models.
+Thank you for coming to my github! I am Jeff Luczak and am a current Master's student at Arizona State University looking to apply
+my data analysis skills for a company that values the use of data driven decisions at a high level. Very excited about using
+predictive analytics to help drive these decisions. If you have any questions on my background or my attached projects, email me
+at jluczak18@gmail.com. Enjoy reading through my code!
 
 # Electriticy Price Forecasting Project
 The Nexant2 file is an ongoing project to use information gathered from the California ISO along with weather data 
