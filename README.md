@@ -7,3 +7,9 @@ the information. It required canvassing all the nodes within the specific region
 and then aggregating weather data on these nodes to be able to combine with our historical information from the California ISO.
 
 Using this information we will be building a forecasting model to predict prices tomorrow or even a week from now. More to come!
+
+The file named "Model_Input_Data" houses all the information gathered from a seperate code to pull wind and solar generation,
+fuel prices, demand, and the LMP prices for electricity in the Pacific Gas & Electric zone in California. 
+
+The other file labeled "PGE_2019_Q4_ElectricUsageByZip" was used to pull zipcodes that the company operated in. Our model will be 
+used to predict electricity prices within the PG&E zone.
