@@ -17,3 +17,8 @@ fuel prices, demand, and the LMP prices for electricity in the Pacific Gas & Ele
 
 The other file labeled "PGE_2019_Q4_ElectricUsageByZip" was used to pull zipcodes that the company operated in. Our model will be 
 used to predict electricity prices within the PG&E zone.
+
+# PUBG Win Place Percentile Prediction Project
+The PUBG-kernel file was a kaggle project I did on my own time to build a machine learning algorithm to predict how someone will
+place in the game PUBG based on certain features. The pre-processing identified several factors that had an impact on win placement.
+These included boosts, killPlace, walkDistance, and weaponsAcquired. I used these features in my final model.
