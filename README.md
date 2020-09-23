@@ -1,6 +1,7 @@
 # AnalyticsPortfolio
-Portfolio to showcase my analytics work.
+This is a portfolio to showcase my analytics work using Python to preprocess and building machine learning models.
 
+# Electriticy Price Forecasting Project
 The Nexant2 file is an ongoing project to use information gathered from the California ISO along with weather data 
 to create a short term electricity price forecasting model. The current work in the notebook is all the steps we took to gather
 the information. It required canvassing all the nodes within the specific region, finding the weather stations near these nodes,
