@@ -4,7 +4,7 @@ my data analysis skills for a company that values the use of data driven decisio
 predictive analytics to help drive these decisions. If you have any questions on my background or my attached projects, email me
 at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL, and other technologies at https://jluczak18.wixsite.com/analytics. Enjoy reading through my code!
 
-# Electriticy Price Forecasting Project
+# Electricity Price Forecasting Project
 The Nexant2 file is an ongoing project to use information gathered from the California ISO along with weather data 
 to create a short term electricity price forecasting model. The current work in the notebook includes all the steps we took to gather
 the information. It required canvassing all the nodes within the specific region, finding the weather stations near these nodes,
