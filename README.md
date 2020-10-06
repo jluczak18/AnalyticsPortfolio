@@ -12,13 +12,18 @@ and then aggregating weather data on these nodes to be able to combine with our 
 We want to be able to predict prices on an hourly basis which requires hourly weather information which we obtained using an API
 from the National Solar Radiation Database.
 
-Using this information we will be building a forecasting model to predict prices tomorrow or even a week from now. More to come!
+Using this information we will be building a forecasting model to predict prices tomorrow or even a week from now. The company has asked me not to share further data so this is all I can showcase.
 
 The file named "Model_Input_Data" houses all the information gathered from a seperate code to pull wind and solar generation,
 fuel prices, demand, and the LMP prices for electricity in the Pacific Gas & Electric zone in California. 
 
 The other file labeled "PGE_2019_Q4_ElectricUsageByZip" was used to pull zipcodes that the company operated in. Our model will be 
 used to predict electricity prices within the PG&E zone.
+
+# Email Bounce List Cleaning
+Working as a Social Media Analytics Intern, I approached the President of the company about building a database to house an abundance of data that we collect from multiple platforms. This conversation sparked the task of cleaning up our current database due to it not being updated since inception. One way we utilize our database is to send segmented emails in a platform called SendGrid. Inside of this platform, we noticed we had an abundance of bounced email addresses totaling about 70,000. In an effort to remove these email addresses we needed to identify which bounced emails were a result of a hard or a soft bounce. A hard bounce identifies that the email is not valid where as a soft bounce could be that the server was down momentarily or someone had an out of office on. 
+
+Using Python, I loaded in the list of bounced email addresses with error codes embedded inside a large string value. The task was to pull these values out of this column into a seperate column with just the error code. Once we have the error codes in their own column, we can filter which emails we want to remove from our database. The file labeled Cleaning_BounceList does this process. I cannot share the files due to a breach of confidentiality.
 
 # PUBG Win Place Percentile Prediction Project
 The PUBG-kernel file was a kaggle project I did on my own time to build a machine learning algorithm to predict how someone will
