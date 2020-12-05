@@ -4,6 +4,11 @@ my data analysis skills for a company that values the use of data driven decisio
 predictive analytics to help drive these decisions. If you have any questions on my background or my attached projects, email me
 at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL, and other technologies at https://jluczak18.wixsite.com/analytics. Enjoy reading through my code!
 
+# Wells Fargo Capstone Project
+For my capstone project in my Master's program, I worked with my colleague who is a Business Support Specialist at Edward Jones to analyze the application process for their life insurance programs. Given data on applications from the last 12 months, we build predictive models to understand our data better and what features affect the overall cycle time. From here we communicated to Edward Jones what expected time on an application will be from start to finish and how certain aspects of an application add time to the overall process.
+
+Our overall findings was that there was too much variation in our datasets to build an accurate predictive model. This was due to having 6 different carriers who all have a large range of cycle times in our dataset. See the file MSBA_JupyterNotebook for the code I built. 
+
 # Electricity Price Forecasting Project
 The Nexant2 file is an ongoing project to use information gathered from the California ISO along with weather data 
 to create a short term electricity price forecasting model. The current work in the notebook includes all the steps we took to gather
