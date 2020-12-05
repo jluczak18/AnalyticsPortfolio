@@ -9,7 +9,7 @@ For my capstone project in my Master's program, I worked with my colleague who i
 
 Our overall findings was that there was too much variation in our datasets to build an accurate predictive model. This was due to having 6 different carriers who all have a large range of cycle times in our dataset. See the file MSBA_JupyterNotebook for the code I built. 
 
-For background and more information on this project, see the pdf file "Team 10 MSBA Applied Project Report." I worked in a team of 3, but I built all the code for the project.
+For background and more information on this project, see the pdf file "Team 10 MSBA Applied Project Report." I worked in a team of 3 on this project, but I built all the code for this project.
 
 # Electricity Price Forecasting Project
 The Nexant2 file is an ongoing project to use information gathered from the California ISO along with weather data 
