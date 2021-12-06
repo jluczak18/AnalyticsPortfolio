@@ -2,8 +2,8 @@
 Thank you for coming to my github! I am Jeff Luczak and am a Business Analyst at CCC Intelligent Solutions. As a Business Analyst, it is my job to translate business requirements to work for our developers as well as work directly with the business side of CCC to answer questions from our data through the use of visualizations or reports. In order to do this, I use SQL, Tableau, and Python extensively.
 
 How have I used these technologies?
-- SQL: running ad-hoc queries to build reporting
-- Tableau: created internal and external facing dashboards to visualize the data to our customers to drive insights
+- SQL: Running ad-hoc queries to build reporting
+- Tableau: Created internal and external facing dashboards to visualize the data to our customers to drive insights
 - Python: Created dummy datasets for demo versions of our client facing dashboards, called company APIs to pull in new data as a POC before passing work to our developers, and conducting regression testing in an effort to become predictive with some of our data.
 
 Other skills I have learned on the job
