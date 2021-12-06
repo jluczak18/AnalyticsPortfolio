@@ -11,6 +11,8 @@ Other skills I have learned on the job
 - How to connect Python to Tableau to publish data into a server
 - How to move data across different servers utilizing the XML behind Tableau workbooks
 
+I am excited at the prospect of continuing to learn new skills. Next up I want to teach myself Java which may be a 2022 goal :)
+
 If you have any questions on my background or my attached projects, email me
 at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL, and other technologies at https://jluczak18.wixsite.com/analytics. Enjoy reading through my code!
 
