@@ -2,16 +2,16 @@
 Thank you for coming to my github! I am Jeff Luczak and am a Business Analyst at CCC Intelligent Solutions. As a Business Analyst, it is my job to translate business requirements to work for our developers as well as work directly with the business side of CCC to answer questions from our data through the use of visualizations or reports. In order to do this, I use SQL, Tableau, and Python extensively.
 
 How have I used these technologies?
-- SQL: Running ad-hoc queries to build reporting
+- SQL: Running ad-hoc queries to build reporting. Creating data sources through complex queries across different environments and schemas.
 - Tableau: Created internal and external facing dashboards to visualize the data to our customers to drive insights
-- Python: Created dummy datasets for demo versions of our client facing dashboards, called company APIs to pull in new data as a POC before passing work to our developers, and conducting regression testing in an effort to become predictive with some of our data.
+- Python: Created dummy datasets for demo versions of our client facing dashboards, called company APIs to pull in new data as a POC before passing work to our developers, and conducted regression testing to predict how vehicle collisions results in injuries among claimants.
 
 Other skills I have learned on the job
 - Reading XML, JSON files
 - How to connect Python to Tableau to publish data into a server
 - How to move data across different servers utilizing the XML behind Tableau workbooks
 
-I am excited at the prospect of continuing to learn new skills. Next up I want to teach myself Java which may be a 2022 goal :)
+Outside of work I have taken it upon myself to keep pushing myself to learn new skills around Python and coding in general. One of the ways I have pushed myself is through what is called Advent of Code. This is a 25 day set of puzzles released in December to challenge your coding skills. I have a branch on my github devoted to some of these challenges. I will continue working on these throughout 2022 as I was out on vacation most of December.
 
 If you have any questions on my background or my attached projects, email me
 at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL, and other technologies at https://jluczak18.wixsite.com/analytics. Enjoy reading through my code!
