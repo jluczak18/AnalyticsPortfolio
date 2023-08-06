@@ -31,7 +31,8 @@ At CCC Intelligent Solutions every year we have a company wide challenge to come
   For 2022 we decided to work on building a scorecard that helped us understand casualty providers and how the services they provide compare to similar providers in the same geographic location. Our goal was to 
   look to identify potential fraud by seeing providers charging for similar services at an elevated cost relative to the market. This project I was both the designer and BI developer. Was extremely proud of my 
   work. We ended up losing by 1 vote to the overall winner in 2022.
-  [![plot](C:\Users\jlucz\Downloads\ProviderScorecardScreen2.png)](https://github.com/jluczak18/AnalyticsPortfolio/blob/6e01d2a06be15a2bed9d01bc0fe45c342dd4a12b/Provider%20Scorecard%20Screen%201.PNG)
+  
+  [![Provider Scorecard Screen 2](C:\Users\jlucz\Downloads\ProviderScorecardScreen2.png)](https://github.com/jluczak18/AnalyticsPortfolio/blob/6e01d2a06be15a2bed9d01bc0fe45c342dd4a12b/Provider%20Scorecard%20Screen%201.PNG)
   
   ## 2021
   As an analytics team we decided to bring in external data around extreme weather and join it to our internal data around motor vehicle accidents to see how extreme weather plays a factor in increased volumes or    higher severity. This is a future roadmap for our company so we thought building a POC would be a great idea. My role in this project included helping identify different APIs we could use to gather the data, 
