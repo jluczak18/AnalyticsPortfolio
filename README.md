@@ -32,7 +32,8 @@ At CCC Intelligent Solutions every year we have a company wide challenge to come
   look to identify potential fraud by seeing providers charging for similar services at an elevated cost relative to the market. This project I was both the designer and BI developer. Was extremely proud of my 
   work. We ended up losing by 1 vote to the overall winner in 2022.
   
-  [![Provider Scorecard Screen 2](C:\Users\jlucz\Downloads\ProviderScorecardScreen2.png)](https://github.com/jluczak18/AnalyticsPortfolio/blob/6e01d2a06be15a2bed9d01bc0fe45c342dd4a12b/Provider%20Scorecard%20Screen%201.PNG)
+  [![Provider Scorecard Screen 2](https://github.com/jluczak18/AnalyticsPortfolio/blob/7bc65af020a552497d7f0743d99f33b145385bc3/ProviderScorecardScreen2.PNG)]
+  [![Provider Scorecard Screen 1](C:\Users\jlucz\Downloads\ProviderScorecardScreen2.png)]
   
   ## 2021
   As an analytics team we decided to bring in external data around extreme weather and join it to our internal data around motor vehicle accidents to see how extreme weather plays a factor in increased volumes or    higher severity. This is a future roadmap for our company so we thought building a POC would be a great idea. My role in this project included helping identify different APIs we could use to gather the data, 
