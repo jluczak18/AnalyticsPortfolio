@@ -32,13 +32,14 @@ At CCC Intelligent Solutions every year we have a company wide challenge to come
   look to identify potential fraud by seeing providers charging for similar services at an elevated cost relative to the market. This project I was both the designer and BI developer. Was extremely proud of my 
   work. We ended up losing by 1 vote to the overall winner in 2022.
   
-  [![Provider Scorecard Screen 2](https://github.com/jluczak18/AnalyticsPortfolio/blob/7bc65af020a552497d7f0743d99f33b145385bc3/ProviderScorecardScreen2.PNG)]
-  [![Provider Scorecard Screen 1](C:\Users\jlucz\Downloads\ProviderScorecardScreen2.png)]
+  ![Provider Scorecard Screen 2](https://github.com/jluczak18/AnalyticsPortfolio/blob/7bc65af020a552497d7f0743d99f33b145385bc3/ProviderScorecardScreen2.PNG)
   
   ## 2021
   As an analytics team we decided to bring in external data around extreme weather and join it to our internal data around motor vehicle accidents to see how extreme weather plays a factor in increased volumes or    higher severity. This is a future roadmap for our company so we thought building a POC would be a great idea. My role in this project included helping identify different APIs we could use to gather the data, 
   joining the data together across multiple different environments (Oracle, Haddop Hive, and Amazon EMR), and build a visualization in Tableau. The outcome was that our team brought hom the trophy for top overall 
   winning team!
+
+  ![2021 Hackathon](https://github.com/jluczak18/AnalyticsPortfolio/blob/89d202c309dae4f62c4c3e425e60a53a1f9acc65/CCC_Hackathon.png)
 
 # Edward Jones Capstone Project
 For my capstone project in my Master's program, I worked with my colleague who is a Business Support Specialist at Edward Jones to analyze the application process for their life insurance programs. Given data on applications from the last 12 months, we build predictive models to understand our data better and what features affect the overall cycle time. From here we communicated to Edward Jones what expected time on an application will be from start to finish and how certain aspects of an application add time to the overall process.
