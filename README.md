@@ -1,17 +1,17 @@
 # Analytics Portfolio
-Thank you for coming to my github! I am Jeff Luczak and am a Business Analyst at CCC Intelligent Solutions. As a Business Analyst, it is my job to translate business requirements to work for our developers as well as work directly with the business side of CCC to answer questions from our data through the use of visualizations or reports. In order to do this, I use SQL, Tableau, and Python extensively.
+Thank you for coming to my github! My name is Jeff Luczak and I am a Senior Business Analyst at CCC Intelligent Solutions. As a Senior Business Analyst, it is my job to translate business requirements to technical jobs to be done for our developers. I also work directly with the business side of CCC to answer questions from our data through the use of ad-hoc data preparation on visualizations. In order to do this, I use SQL, Tableau, and Python extensively.
 
 How have I used these technologies?
-- SQL: Running ad-hoc queries to build reporting. Creating data sources through complex queries across different environments and schemas.
-- Tableau: Created internal and external facing dashboards to visualize the data to our customers to drive insights
-- Python: Created dummy datasets for demo versions of our client facing dashboards, called company APIs to pull in new data as a POC before passing work to our developers, and conducted regression testing to predict how vehicle collisions results in injuries among claimants.
+- SQL: Running ad-hoc queries to build reporting. Creating data sources through complex queries across different environments and schemas. Publishing custom SQL queries to Tableau
+- Tableau: Create internal and external facing dashboards to visualize the data to drive customer insights
+- Python: Utilized Python in numerous ways in my current and prior jobs. By using python, I have built algorithms to find meaning in data, created dummy data sets with existing data to show the development team how we should model our warehouse, used python to call Rest APIs for use in reporting and for process improvement practices.
 
 Other skills I have learned on the job
 - Reading XML, JSON files
 - How to connect Python to Tableau to publish data into a server
 - How to move data across different servers utilizing the XML behind Tableau workbooks
 
-Outside of work I have taken it upon myself to keep pushing myself to learn new skills around Python and coding in general. One of the ways I have pushed myself is through what is called Advent of Code. This is a 25 day set of puzzles released in December to challenge your coding skills. I have a branch on my github devoted to some of these challenges. I will continue working on these throughout 2022 as I was out on vacation most of December.
+Outside of work I have taken it upon myself to keep pushing myself to learn new skills around Python and coding in general. One of the ways I have pushed myself is through what is called Advent of Code. This is a 25 day set of puzzles released in December to challenge your coding skills. I have a branch on my github devoted to some of these challenges. 
 
 If you have any questions on my background or my attached projects, email me
 at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL, and other technologies at https://jluczak18.wixsite.com/analytics. Enjoy reading through my code!
@@ -19,8 +19,23 @@ at jluczak18@gmail.com. You can also find more of my projects using Tableau, SQL
 # Advent of Code
 The Advent of Code project is an open source set of puzzles set to test coding/problem solving skills. At CCC we created our own leaderboard for our team to track our progress. These challenges certainly tested my problem solving skills, but at the end of the day I was able to answer the problems correctly and further my knowledge of Python. I will continue to update this file as I go through the challenges. As of this writing, I completed through Day 7 and part 1 of days 8,9,10,13, and 14.
 
-# CCC 2021 Hackathon
-At CCC Intelligent Solutions every year we have a company wide challenge to come up with new ideas for products and provide some sort of proof of concept on what that may look like. As an analytics team we decided to bring in external data around extreme weather and join it to our internal data around motor vehicle accidents to see how extreme weather plays a factor in increased volumes or higher severity. This is a future roadmap for our company so we thought building a POC would be a great idea. My role in this project included helping identify different APIs we could use to gather the data, joining the data together across multiple different environments (Oracle, Haddop Hive, and Amazon EMR), and build a visualization in Tableau. The outcome was that our team brought hom the trophy for top overall winning team!
+# CCC Hackathon
+At CCC Intelligent Solutions every year we have a company wide challenge to come up with new ideas for products and provide some sort of proof of concept on what that may look like. This section highlights all the entries I have worked on with my team.
+
+  ## 2023
+  In 2023, my team identified that there was a large need for our internal account teams to be able to understand how threshold changes to an existing CCC product impacts Insurance customers line of business. The    end goal was for a Tableau dashboard that helps the team understand how a change to a given threshold increases productivity across the insurance landscape. I was a project lead on this as well as one of the   
+  main developers. I helped gather requirements from stakeholders and then translated those to the team. From there I created python code that helped us simulate individual changes and how that impacted volume. 
+  Our team took home a trophy for Best Strategic Value out of the 30 teams that participated.
+
+  ## 2022
+  For 2022 we decided to work on building a scorecard that helped us understand casualty providers and how the services they provide compare to similar providers in the same geographic location. Our goal was to 
+  look to identify potential fraud by seeing providers charging for similar services at an elevated cost relative to the market. This project I was both the designer and BI developer. Was extremely proud of my 
+  work. We ended up losing by 1 vote to the overall winner in 2022.
+  
+  ## 2021
+  As an analytics team we decided to bring in external data around extreme weather and join it to our internal data around motor vehicle accidents to see how extreme weather plays a factor in increased volumes or    higher severity. This is a future roadmap for our company so we thought building a POC would be a great idea. My role in this project included helping identify different APIs we could use to gather the data, 
+  joining the data together across multiple different environments (Oracle, Haddop Hive, and Amazon EMR), and build a visualization in Tableau. The outcome was that our team brought hom the trophy for top overall 
+  winning team!
 
 # Edward Jones Capstone Project
 For my capstone project in my Master's program, I worked with my colleague who is a Business Support Specialist at Edward Jones to analyze the application process for their life insurance programs. Given data on applications from the last 12 months, we build predictive models to understand our data better and what features affect the overall cycle time. From here we communicated to Edward Jones what expected time on an application will be from start to finish and how certain aspects of an application add time to the overall process.
